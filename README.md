@@ -9,7 +9,7 @@ The purpose of this roadmap is to give you an overview of the core skills needed
 
 ## Roadmap
 
-![Roadmap](./roadmap.png)
+![Roadmap](./path_resources/roadmap.png)
 
 ## Resources
 
