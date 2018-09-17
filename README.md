@@ -29,7 +29,7 @@ The purpose of this roadmap is to give you an overview of the core skills needed
             * Geography: region? Country? What insights are the stakeholders hoping to get out?
             * Device level? It is important because we want to optimize your experience)
         * Metrics
-            * What do the stateholders want to measure?
+            * What do the stakeholders want to measure?
             * Can I add more colors to help stakeholders diagnoze value drivers and extract deeper insights since I am the expert on data?
         * Relationships
             * Datasets have relationships with other entities (e.g. visitors to devices have many to many relationship)
