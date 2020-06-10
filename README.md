@@ -4,6 +4,8 @@ Below you can find a chart demonstrating the paths that you can take and the mil
 
 We are continuing to add recommended resources, example practice projects and additional tips to expand the roadmap. Contributions are welcome and highly appreciated.
 
+Are you having difficulties to commit through this entire roadmap yourself? Connect over virtual rooms with buddies of similar goals to learn and motivate each other: https://www.boringppl.com/
+
 ## Disclaimer
 The purpose of this roadmap is to give you an overview of the core skills needed in data engineering. Any summary insights from conversations or Meetups does not represent any companies' opinion. Data engineering roles vary from one company to another, and from one role to another. If you are interested in a specific data engineering role, we recommend reaching out to individuals within the companies to talk about their roles and culture fit. If you found any insights that helped in your journey, the community will greatly benefit from your contributions.
 
