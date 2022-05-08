@@ -4,7 +4,7 @@ Below you can find a chart demonstrating the paths that you can take and the mil
 
 We are continuing to add recommended resources, example practice projects and additional tips to expand the roadmap. Contributions are welcome and highly appreciated.
 
-<code> If you are having difficulties to commit through this entire roadmap yourself. I will suggest finding someone like minded and have similar goals to start the arduous task of learning together. Heading over to meetups is one way to network with people who are looking to learn. We started a community to help connect people with similar learning goals. We plan to make it forever free for users. If you are interested, head over to http://ml.boringppl.com/ </code>
+<code> If you are having difficulties to commit through this entire roadmap yourself. I will suggest finding someone like minded and have similar goals to start the arduous task of learning together. Heading over to meetups is one way to network with people who are looking to learn. We started a community to help connect people with similar learning goals. We plan to make it forever free for users. If you are interested, head over to https://video.boringppl.com/ </code>
 
 ## Disclaimer
 The purpose of this roadmap is to give you an overview of the core skills needed in data engineering. Any summary insights from conversations or Meetups does not represent any companies' opinion. Data engineering roles vary from one company to another, and from one role to another. If you are interested in a specific data engineering role, we recommend reaching out to individuals within the companies to talk about their roles and culture fit. If you found any insights that helped in your journey, the community will greatly benefit from your contributions.
